@@ -1,0 +1,32 @@
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.exe
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.deps.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.runtimeconfig.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.runtimeconfig.dev.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\ref\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\ref\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.genruntimeconfig.cache
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.exe
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.deps.json
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.runtimeconfig.json
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.runtimeconfig.dev.json
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\ref\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\bin\Debug\net5.0\Exercicio-CalculoRetangulo.pdb
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.AssemblyInfo.cs
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\ref\Exercicio-CalculoRetangulo.dll
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.pdb
+C:\Users\MarcosBorém\OneDrive - Orbis Inteligencia Organizacional Ltda\Poo\Exercicio-CalculoRetangulo\obj\Debug\net5.0\Exercicio-CalculoRetangulo.genruntimeconfig.cache

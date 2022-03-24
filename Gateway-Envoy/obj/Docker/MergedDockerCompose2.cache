@@ -1,0 +1,31 @@
+name: dockercompose1638430802380697226
+services:
+  webapplicationa:
+    build:
+      context: C:\Projects\Gateway-Envoy
+      dockerfile: WebApplicationA\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapplicationa
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+  webapplicationb:
+    build:
+      context: C:\Projects\Gateway-Envoy
+      dockerfile: WebApplicationB\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: webapplicationb
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose1638430802380697226_default

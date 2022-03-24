@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\Poo\\Exercicio-CalculoAreaRetangloeTriangulo\\Exercicio-CalculoAreaRetangloe.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\Poo\\Exercicio-CalculoAreaRetangloeTriangulo\\Exercicio-CalculoAreaRetangloe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\Poo\\Exercicio-CalculoAreaRetangloeTriangulo\\Exercicio-CalculoAreaRetangloe.csproj",
+        "projectName": "Exercicio-CalculoAreaRetangloe",
+        "projectPath": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\Poo\\Exercicio-CalculoAreaRetangloeTriangulo\\Exercicio-CalculoAreaRetangloe.csproj",
+        "packagesPath": "C:\\Users\\MarcosBorém\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MarcosBorém\\Documents\\RepoLab\\Poo\\Exercicio-CalculoAreaRetangloeTriangulo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MarcosBorém\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\MarcosBorém\\source\\repos\\orbis.elasticsearch\\src\\orbis-elasticsearch\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

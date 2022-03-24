@@ -1,0 +1,16 @@
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.exe
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.deps.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.runtimeconfig.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.runtimeconfig.dev.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\ref\Exercicio-MaiorIdade.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\bin\Debug\net5.0\Exercicio-MaiorIdade.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\ref\Exercicio-MaiorIdade.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.genruntimeconfig.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-MaiorIdade\obj\Debug\net5.0\Exercicio-MaiorIdade.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.exe
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.deps.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.runtimeconfig.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.runtimeconfig.dev.json
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\ref\Exercicio-AnimalEstimacao.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\bin\Debug\net5.0\Exercicio-AnimalEstimacao.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.AssemblyInfo.cs
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\ref\Exercicio-AnimalEstimacao.dll
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.pdb
+C:\Users\MarcosBorém\Documents\RepoLab\Poo\Exercicio-AnimalEstimacao\obj\Debug\net5.0\Exercicio-AnimalEstimacao.genruntimeconfig.cache

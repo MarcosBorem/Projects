@@ -1,0 +1,16 @@
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.exe
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.deps.json
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.runtimeconfig.json
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.runtimeconfig.dev.json
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.dll
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\ref\Poo.dll
+C:\Users\MarcosBorém\source\repos\Poo\Poo\bin\Debug\net5.0\Poo.pdb
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.csproj.AssemblyReference.cache
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.AssemblyInfoInputs.cache
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.AssemblyInfo.cs
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.csproj.CoreCompileInputs.cache
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.dll
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\ref\Poo.dll
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.pdb
+C:\Users\MarcosBorém\source\repos\Poo\Poo\obj\Debug\net5.0\Poo.genruntimeconfig.cache
